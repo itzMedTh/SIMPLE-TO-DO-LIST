@@ -1,5 +1,7 @@
 # SIMPLE TO-DO LIST
 
+![image](https://github.com/user-attachments/assets/9899deaf-7811-4146-9604-cd101b018930)
+
 ## 📝 Introduction
 **SIMPLE TO-DO LIST** is a simple task management application built using JavaScript. It allows you to add, view, and remove tasks from a to-do list with ease. This project is designed to be straightforward and user-friendly, aiming to improve your skills in HTML, CSS, and JavaScript.
 
